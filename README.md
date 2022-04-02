@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [materialgrammi](www.materialgrammi.com)
 - 🌱 I’m currently learning [golang](https://go.dev/)
-- 👯 I’m looking to collaborate on [materialgrammi](www.materialgrammi.com)
+- 👯 I’m looking for collaborators on [materialgrammi](www.materialgrammi.com)
 - 🤔 I’m looking for help with contributors.
 - 💬 Ask me about angular, nodeJs, python.
 - 📫 How to reach me: ashbeelghouri@protonmail.com
