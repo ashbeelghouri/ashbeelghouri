@@ -1,8 +1,8 @@
 ### I am Ashbeel Ghouri 👋
 
-- 🔭 I’m currently working on [materialgrammi](www.materialgrammi.com)
+- 🔭 I’m currently working on [materialgrammi](https://www.materialgrammi.com)
 - 🌱 I’m currently learning [golang](https://go.dev/)
-- 👯 I’m looking for collaborators on [materialgrammi](www.materialgrammi.com)
+- 👯 I’m looking for collaborators on [materialgrammi](https://www.materialgrammi.com)
 - 🤔 I’m looking for help with contributors.
 - 💬 Ask me about angular, nodeJs, python.
 - 📫 How to reach me: ashbeelghouri@protonmail.com
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Developers are cool.
 
 ### Achievements
-- Created an open-source library for angular components, for more information visit: www.materialgrammi.com
+- Created an open-source library for angular components, for more information visit: https://www.materialgrammi.com
 
 ### Skills
 #### Frontend
