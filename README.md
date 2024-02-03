@@ -23,8 +23,8 @@
 #### Backend
 - [NodeJs](https://nodejs.org/)
 - [PHP](https://www.php.net/)
+- [golang](https://go.dev/)
 - [Python](https://www.python.org/)
-- [golang](https://go.dev/) [beginner]
 
 
 #### Frameworks
@@ -47,3 +47,4 @@
 
 #### Others
 - Docker
+- GraphQl
