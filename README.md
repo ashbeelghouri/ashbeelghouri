@@ -1,7 +1,6 @@
 ### I am Ashbeel Ghouri 👋
 
-- 🔭 I’m currently working on [materialgrammi](https://www.materialgrammi.com)
-- 🌱 I’m currently learning [golang](https://go.dev/)
+- 🔭 I’m currently working on [golang](https://go.dev/) and [NodeJs](https://nodejs.org/) 
 - 👯 I’m looking for collaborators on [materialgrammi](https://www.materialgrammi.com)
 - 🤔 I’m looking for help with contributors.
 - 💬 Ask me about angular, nodeJs, python.
