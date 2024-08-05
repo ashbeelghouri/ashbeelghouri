@@ -1,16 +1,15 @@
 ### I am Ashbeel Ghouri 👋
 
-- 🔭 I’m currently working on [golang](https://go.dev/) and [NodeJs](https://nodejs.org/) 
-- 👯 I’m looking for collaborators on [materialgrammi](https://www.materialgrammi.com)
+- 🔭 I’m currently working on [golang](https://go.dev/) and [grpc](https://grpc.io)
+- 👯 I’m looking for collaborators on [jsonschematics](https://github.com/ashbeelghouri/jsonschematics)
 - 🤔 I’m looking for help with contributors.
-- 💬 Ask me about angular, nodeJs, python.
+- 💬 Ask me about Golang, Grpc, NodeJS and Python.
 - 📫 How to reach me: ashbeelghouri@protonmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Developers are cool.
 
-### Achievements
-- Created an open-source library for angular components, for more information visit: https://www.materialgrammi.com
-- [Open Source Repository](https://github.com/ashbeelghouri/materialgrammi)
+### Open Source Work
+- [Frontend Angular](https://github.com/ashbeelghouri/materialgrammi)
+- [Validator Golang](https://github.com/ashbeelghouri/jsonschematics)
 
 ### Skills
 #### Frontend
@@ -20,9 +19,9 @@
 - Typescript
 
 #### Backend
+- [golang](https://go.dev/)
 - [NodeJs](https://nodejs.org/)
 - [PHP](https://www.php.net/)
-- [golang](https://go.dev/)
 - [Python](https://www.python.org/)
 
 
