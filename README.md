@@ -61,13 +61,4 @@ Backend engineer with **8+ years** shipping high-performance, cloud-native servi
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashbeelghouri&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f5fe6&icon_color=2f5fe6&text_color=808080" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeelghouri&layout=compact&hide_border=true&bg_color=00000000&title_color=2f5fe6&text_color=808080" alt="Top languages"/>
-</p>
-
----
-
 <p align="center"><i>Building backends — and open-source tools — that stay quiet under load.</i></p>
