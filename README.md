@@ -1,54 +1,73 @@
-# 👋 Hi, I'm Ashbeel Ghouri
+<h1 align="center">Ashbeel Ghouri</h1>
 
-**Software Engineer | Backend Specialist | Cloud-Native Microservices**
+<p align="center">
+  <b>Senior Software Engineer</b> · Golang · Node.js · AWS / Azure<br/>
+  I build the backend systems behind fintech, media, and live-events — fast, observable, and correct at scale.
+</p>
 
-A passionate developer with extensive experience building robust services in **Golang**, **Node.js**, and modern web technologies. I have a knack for architecting scalable systems, crafting developer-friendly tools, and contributing to open source.
-
----
-
-## 🔭 Open Source Projects
-
-### 🔧 [stepper](https://github.com/ashbeelghouri/stepper)  
-A lightweight step navigation library (Golang/JS) enabling easy implementation of multi-step workflows in CLI or web applications. Ideal for building guided user interfaces and wizard-style flows.
-
----
-
-### 📡 [event-stream](https://github.com/ashbeelghouri/event-stream)  
-Golang-based event streaming tool that allows developers to capture, process, and dispatch events using AWS-like SNS/SQS patterns. Streamline event-driven architectures with minimal setup.
+<p align="center">
+  <a href="https://ashbeelghouri.com"><img src="https://img.shields.io/badge/Portfolio-ashbeelghouri.com-2f5fe6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ashbeel-ghouri-903873104"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ashbeelghouri889@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-### 📐 [jsonschematics](https://github.com/ashbeelghouri/jsonschematics)  
-A Go package for validating, transforming, and manipulating JSON data based on configurable schemas. Enables robust JSON pipelines with typed validations and easy-to-maintain rules :contentReference[oaicite:1]{index=1}.
+### 👨‍💻 About
+
+Backend engineer with **8+ years** shipping high-performance, cloud-native services in **Golang** and **Node.js**. My focus is event-driven architecture done right — Kafka with the transactional outbox pattern, CQRS, Temporal sagas, and zero-data-loss payment flows — and the observability and CI/CD that keep it reliable at scale.
+
+- 🔭 Recently: engineered **27 Go microservices** behind a gRPC/REST gateway for a UAE marketplace ([Ayshei](https://ayshei.com)) at 99.95% uptime.
+- 🧩 I care about the invisible parts: clean contracts, tight latency budgets, and failure modes handled before they happen.
+- 🌍 Based in **Dubai, UAE** — open to senior backend, platform, and cloud roles (remote or on-site).
+- 🌱 Off the clock, I build developer-first open-source tools in Go.
 
 ---
 
-### 🔑 [password-generator](https://github.com/ashbeelghouri/password-generator)  
-A secure and customizable password generation utility that adheres to best practices for randomness and entropy. Supports options for length, character sets, and compliance levels.
+### 🛠️ Tech I work with
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-### 📱 [materialgrammi](https://github.com/ashbeelghouri/materialgrammi)  
-A modern, mobile-first CSS + Angular UI library inspired by Material Design. Enables rapid development of responsive, themeable interfaces via modular components :contentReference[oaicite:2]{index=2}.
+### 📦 Open-source projects
+
+| Project | What it does |
+| --- | --- |
+| **[jsonschematics](https://github.com/ashbeelghouri/jsonschematics)** | Go library for validating, transforming, and manipulating JSON against declarative schemas — 20+ built-in validators, custom operators, and clean error output. Running in production. |
+| **[event-stream](https://github.com/ashbeelghouri/event-stream)** | Go event-streaming tool to capture, process, and dispatch events with SNS/SQS-style patterns — event-driven architectures with minimal setup. |
+| **[stepper](https://github.com/ashbeelghouri/stepper)** | Lightweight step-navigation library (Go/JS) for building multi-step workflows and wizard-style flows in CLI or web apps. |
+| **[password-generator](https://github.com/ashbeelghouri/password-generator)** | Secure, customizable password generator built around strong randomness and entropy — configurable length, character sets, and compliance levels. |
+| **[materialgrammi](https://github.com/ashbeelghouri/materialgrammi)** | Mobile-first, Material-inspired UI library shipped as standalone CSS and an Angular package (`ng-materialgrammi`). |
+
+> More production work — marketplaces, payments, search at scale — is written up at **[ashbeelghouri.com](https://ashbeelghouri.com)**.
 
 ---
 
-## 🛠️ Key Tech & Skills
+### 📊 GitHub stats
 
-- **Languages & Frameworks:** Golang, Node.js, TypeScript, Angular, CSS/SCSS  
-- **Architecture Patterns:** REST APIs, CLI tools, Event-Driven Systems, Microservices  
-- **Open Source:** Library design, modular architecture, developer-first documentation  
-- **Infrastructure:** Docker, CI/CD pipelines, Agile development methodologies
-
----
-
-## 🤝 Get Involved or Reach Out
-
-- Feel free to dive into my repos, submit issues, or open PRs  
-- Reach me at: **ashbeelghouri889@gmail.com**  
-- Let’s chat on LinkedIn: [linkedin.com/in/ashbeel-ghouri-903873104](https://linkedin.com/in/ashbeel-ghouri-903873104)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashbeelghouri&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f5fe6&icon_color=2f5fe6&text_color=808080" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashbeelghouri&layout=compact&hide_border=true&bg_color=00000000&title_color=2f5fe6&text_color=808080" alt="Top languages"/>
+</p>
 
 ---
 
-> *Building open-source tools that help everyone build clean, scalable systems.*
-
+<p align="center"><i>Building backends — and open-source tools — that stay quiet under load.</i></p>
