@@ -51,7 +51,7 @@ Backend engineer with **8+ years** shipping high-performance, cloud-native servi
 
 | Project | What it does |
 | --- | --- |
-| **[jsonschematics](https://github.com/ashbeelghouri/jsonschematics)** | Go library for validating, transforming, and manipulating JSON against declarative schemas — 20+ built-in validators, custom operators, and clean error output. Running in production. |
+| **[json-schematics](https://github.com/ashbeelghouri/json-schematics-v2)** | Go library for validating, transforming, and manipulating JSON against declarative schemas — 20+ built-in validators, custom operators, and clean error output. Running in production. |
 | **[event-stream](https://github.com/ashbeelghouri/event-stream)** | Go event-streaming tool to capture, process, and dispatch events with SNS/SQS-style patterns — event-driven architectures with minimal setup. |
 | **[stepper](https://github.com/ashbeelghouri/stepper)** | Lightweight step-navigation library (Go/JS) for building multi-step workflows and wizard-style flows in CLI or web apps. |
 | **[password-generator](https://github.com/ashbeelghouri/password-generator)** | Secure, customizable password generator built around strong randomness and entropy — configurable length, character sets, and compliance levels. |
